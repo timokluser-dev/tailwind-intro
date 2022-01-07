@@ -1,4 +1,4 @@
-# vue-starter-template
+# tailwind-intro
 
 ## Project setup
 ```
