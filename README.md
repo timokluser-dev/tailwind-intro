@@ -3,6 +3,8 @@
 :arrow_right: https://tailwindcss.com/  
 :arrow_right: https://nerdcave.com/tailwind-cheat-sheet
 
+:rocket: https://www.npmjs.com/package/vue-cli-plugin-tailwind
+
 ## Project setup
 ```
 npm install
