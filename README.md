@@ -1,5 +1,8 @@
 # tailwind-intro
 
+:arrow_right: https://tailwindcss.com/  
+:arrow_right: https://nerdcave.com/tailwind-cheat-sheet
+
 ## Project setup
 ```
 npm install
