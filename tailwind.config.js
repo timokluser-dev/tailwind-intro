@@ -3,6 +3,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors: {
+        'vue-blue': '#2c3e50',
+        'vue-green': '#42b983',
+      },
       fontFamily: {
         'sans': ['Roboto', 'sans-serif'],
         'mono': ['"Roboto Mono"', 'monospace'],
