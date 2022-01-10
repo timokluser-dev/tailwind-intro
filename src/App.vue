@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="bg-gray-50">
-    <div class="app__nav fixed w-full bg-gray-50">
+    <div class="app__nav fixed w-full bg-gray-50 dark:bg-gray-800">
       <div id="nav" class="nav">
         <router-link to="/">Home</router-link>
         <span class="nav__separator">|</span>
@@ -48,6 +48,7 @@
   a {
     @apply font-medium;
     @apply text-vue-blue;
+    @apply dark:text-white;
     @apply uppercase;
 
     &.router-link-exact-active {

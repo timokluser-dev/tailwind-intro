@@ -2,7 +2,7 @@
 module.exports = {
   mode: (process.env.NODE_ENV === 'production') ? 'jit' : '',
   purge: ['./public/**/*.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
     extend: {
       colors: {
