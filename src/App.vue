@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div id="nav" class="font-">
+    <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
@@ -9,6 +9,10 @@
 </template>
 
 <style lang="scss">
+body {
+  @apply bg-gray-50;
+}
+
 #app {
   @apply text-center;
   @apply text-vue-blue;
