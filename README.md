@@ -1,9 +1,22 @@
 # tailwind-intro
 
+## Tailwind CSS
+
 :arrow_right: https://tailwindcss.com/  
 :arrow_right: https://nerdcave.com/tailwind-cheat-sheet
 
 :rocket: https://www.npmjs.com/package/vue-cli-plugin-tailwind
+
+## BEM 
+
+:arrow_right: https://en.bem.info/methodology/quick-start/  
+:arrow_right: http://getbem.com/
+
+## Atomic Design
+
+:arrow_right: https://atomicdesign.bradfrost.com/table-of-contents/
+
+## Vue.js
 
 ## Project setup
 ```
