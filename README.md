@@ -16,8 +16,6 @@
 
 :arrow_right: https://atomicdesign.bradfrost.com/table-of-contents/
 
-## Vue.js
-
 ## Project setup
 ```
 npm install
