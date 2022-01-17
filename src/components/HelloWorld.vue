@@ -9,7 +9,7 @@
 
     <div class="plugins">
       <h3 class="plugins__title">Installed CLI Plugins</h3>
-      <div class="plugins__container flex gap-5 flex-col justify-between flex-wrap lg:flex-row">
+      <div class="plugins__container flex flex-col justify-between lg:flex-row gap-5">
         <div class="plugins__container-item">
           <a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank"
              rel="noopener">babel</a>
@@ -54,7 +54,7 @@
 
     <div class="links">
       <h3 class="links__title">Ecosystem</h3>
-      <div class="links__container grid gap-5 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div class="links__container grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         <div class="links__container-item lg:col-span-3">
           <a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a>
         </div>
