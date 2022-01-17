@@ -98,6 +98,10 @@ export default class HelloWorld extends Vue {
       @apply bg-gray-200 rounded;
       @apply border-2 border-transparent;
 
+      a:hover {
+        @apply text-vue-green-500;
+      }
+
       &:hover {
         @apply border-vue-green-500 border-2;
       }
