@@ -39,7 +39,7 @@
 
 #app {
   @apply text-center;
-  @apply text-vue-blue;
+  @apply text-vue-blue-500;
 }
 
 #nav {
@@ -47,12 +47,12 @@
 
   a {
     @apply font-medium;
-    @apply text-vue-blue;
+    @apply text-vue-blue-500;
     @apply dark:text-white;
     @apply uppercase;
 
     &.router-link-exact-active {
-      @apply text-vue-green;
+      @apply text-vue-green-500;
     }
   }
 }

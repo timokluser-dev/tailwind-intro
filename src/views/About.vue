@@ -19,13 +19,13 @@ export default class About extends Vue {
 <style scoped lang="scss">
 .about {
   &__link {
-    @apply text-white bg-vue-blue rounded p-4 px-12;
+    @apply text-white bg-vue-blue-500 rounded p-4 px-12;
     @apply transform-gpu;
     @apply transition-all duration-150 delay-75;
 
     // same as `@apply hover:bg-vue-green`
     &:hover {
-      @apply bg-vue-green;
+      @apply bg-vue-green-500;
       @apply scale-110;
     }
   }

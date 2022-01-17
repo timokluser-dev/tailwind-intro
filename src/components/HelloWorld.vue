@@ -99,7 +99,7 @@ export default class HelloWorld extends Vue {
       @apply border-2 border-transparent;
 
       &:hover {
-        @apply border-vue-green border-2;
+        @apply border-vue-green-500 border-2;
       }
     }
   }
@@ -110,7 +110,7 @@ h3 {
 }
 
 ul {
-  list-style-type: none;
+  @apply list-none;
   padding: 0;
 }
 
@@ -120,6 +120,10 @@ li {
 }
 
 a {
-  color: #42b983;
+  @apply text-vue-green-500;
+
+  &:hover {
+    @apply text-vue-green-700;
+  }
 }
 </style>
